@@ -1,3 +1,5 @@
+![Gudio Van Rossum](./gudio_van_rossum.jpg)
+
 # History of Python
 * ### Dec1989 - As a successor of ABC to provide exception handling
 * ### Feb1991 - First public release 0.9.0 had classes with inheritance, exception handling, functions and core data types
