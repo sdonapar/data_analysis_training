@@ -13,7 +13,7 @@ conda config --show
 conda config --show channels
 conda config --add channels conda-forge
 ```
-- Add following proxy_server settings to .condarc present in the Home directory /home/username if necessary
+- Optional Setp: Add following proxy_server settings to .condarc present in the Home directory /home/username if necessary
 ```YAML
 proxy_servers:
     http: http://user:pass@corp.com:8080
