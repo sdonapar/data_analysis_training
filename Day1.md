@@ -1,6 +1,6 @@
 # Data Analysis Using [Python](https://www.python.org) - Day-1 Agenda
 
-![Gudio Van Rossum](./gudio_van_rossum.jpg)
+![Gudio Van Rossum](./image/gudio_van_rossum.jpg)
 
 * ## [Environment Setup](./installation.md)
 * ## [How Python is different from other languages ?](./python_language.md)

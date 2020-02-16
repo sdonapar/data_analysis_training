@@ -1,4 +1,4 @@
-![Gudio Van Rossum](./gudio_van_rossum.jpg)
+![Gudio Van Rossum](./image/gudio_van_rossum.jpg)
 
 # History of Python
 * ### Dec1989 - As a successor of ABC to provide exception handling

@@ -1,6 +1,6 @@
 # Introduction to Machine Learning
 
-## 1. examples of ML in use
+## 1. Examples of ML use cases
 
 * ## Prediction
 * ## Speech Recognition
