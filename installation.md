@@ -13,11 +13,10 @@ conda config --show
 conda config --show channels
 conda config --add channels conda-forge
 ```
-- Optional Setp: Add following proxy_server settings to .condarc present in the Home directory /home/username if necessary
-```YAML
-proxy_servers:
-    http: http://user:pass@corp.com:8080
-    https: https://user:pass@corp.com:8080
+- Optional Setp: Add following proxy_server settings if necessary
+```bash
+conda config --set proxy_servers.http http://user:pass@corp.com:8080
+conda config --set proxy_servers.https https://user:pass@corp.com:8080
 ```
 
 ## Create virtual environment
