@@ -7,7 +7,8 @@
 * ### Oct2000 - Version 2.0 brings garbage collectors, Version 2.2 improves types to be fully object oriented
 * ### Dec2008 - Version 3.0 reduce feature duplication by removing old ways of doing things
 * ### Jun2018 - Version 3.7 Stable release 
-* ### Oct2019 - Version 3.8 
+* ### Oct2019 - Version 3.8
+* ### [Latest Python Releases](https://www.python.org/downloads/)
 # Why Python ?
 * ### Easy to learn
 * ### Has efficient high level data structures
